@@ -1,9 +1,24 @@
-- 👋 Hi, I’m @Muhammad-Saad-Shabbir.
-- 👀 I’m interested in Computer Programming.
-- 🌱 I’m currently learning Linux Server Administration.
-- 💞️ I’m looking to collaborate on different Projects realted my Field.
+# Greetings, Welcom to My Github! 👋
 
-<!---
-Muhammad-Saad-Shabbir/Muhammad-Saad-Shabbir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm [Muhammad Saad Shabbir], a passionate [Software Engineer], specialized in [Web Design & Development, Front-end & Back-end Systems, GNU Health HMIS Inplementations, Open-spouce Development (Software and Database Tools)]. 
+
+### 🛠️ Technologies & Tools
+
+- **Languages:** HTML5, CSS, Bootstrap, JavaScript, C#, Python
+- **Frameworks:** ASP .net, MySQL, PostgreSQL, SQLite, MSSQL, Django
+- **Tools:** Git, Docker, pgAdmin, VS Code, Slack
+- **Databases:** MySQL, PostgreSQL, SQLite, MSSQL
+
+
+### 🌱 What I'm Learning
+
+I am learning a diverse set of skills that encompass both foundational and advanced aspects of software development. This includes mastering programming languages and frameworks, understanding software design patterns, and implementing efficient algorithms, also gaining knowledge in version control, debugging, and testing practices to ensure code quality. Additionally, I am exploring modern development tools and methodologies, such as Agile and DevOps, to enhance collaboration and streamline workflows. Overall, my learning journey is focused on building robust, scalable, and maintainable software solutions.
+
+
+### 📫 How to reach me
+
+- **LinkedIn:** [https://www.linkedin.com/in/muhammad-saad-shabbir-6b1b18212/]
+- **Email:** [chmsaadsh@gmail.com]
+
+
+**Thanks for visiting my profile!**
