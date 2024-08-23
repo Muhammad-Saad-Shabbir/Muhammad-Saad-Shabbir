@@ -1,6 +1,6 @@
 # Greetings, Welcom to My Github! 👋
 
-I'm [Muhammad Saad Shabbir], a passionate [Software Engineer], specialized in [Web Design & Development, Front-end & Back-end Systems, GNU Health HMIS Inplementations, Open-spouce Development (Software and Database Tools)]. 
+I'm [Muhammad Saad Shabbir], a passionate [Software Engineer], specialized in [Web Design & Development, Front-end & Back-end Systems, GNU Health HMIS Implementations, Open-source Development (Software and Database Tools)]. 
 
 ### 🛠️ Technologies & Tools
 
