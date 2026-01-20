@@ -17,7 +17,7 @@ I am learning a diverse set of skills that encompass both foundational and advan
 
 ### 📫 How to reach me
 
-- **LinkedIn:** [https://www.linkedin.com/in/muhammad-saad-shabbir-6b1b18212/]
+- **LinkedIn:** [https://www.linkedin.com/in/muhammad-saad-shabbir-%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-6b1b18212/]
 - **Email:** [chmsaadsh@gmail.com]
 
 
